@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Starting...</Text>
+      <Text>Starting INTJ App</Text>
     </View>
   );
 }
