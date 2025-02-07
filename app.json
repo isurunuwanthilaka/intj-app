@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "StickerSmash",
-    "slug": "StickerSmash",
+    "name": "INTJ App",
+    "slug": "INTJ-App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "intj-app",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
